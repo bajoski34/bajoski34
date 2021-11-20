@@ -89,5 +89,3 @@
 [![Abraham' github stats](https://github-readme-stats.vercel.app/api?username=bajoski34&theme=dracula&count_private=true&hide=stars&show_icons=true)](https://github.com/bajoski34/)
 [![Abraham's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bajoski34&layout=compact&theme=dracula&langs_count=10)](https://github.com/bajoski34)
 <br>
-
-[![Abraham wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bajoski34&layout=compact)](https://github.com/bajoski34)
