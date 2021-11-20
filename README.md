@@ -3,7 +3,7 @@
 ## Software Engineer from Lagos, Nigeria.
 
 - 💻 Currently I am a Software Engineer at Flutterwave.
-- 💬 Ask me about **PHP, Laravel, Dart, Payment Gateways, React**
+- 💬 Ask me about **PHP, Laravel, Payment Gateways, React**
 - 😄 Pronouns: He / Him
 
 ---
