@@ -1,4 +1,4 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hi+there+👋,+I'm+Abraham;I'm+a+Fullstack+Developer)
 
 <!--
 **bajoski34/bajoski34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://app.daily.dev/Bajoski"><img src="https://api.daily.dev/devcards/14b47d3f8a244feeaef260ef361bed36.png?r=ddp" width="400" alt="Olaobaju Abraham's Dev Card"/></a>
