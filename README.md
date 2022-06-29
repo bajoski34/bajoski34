@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hi+there+👋,+I'm+Abraham;I'm+a+Fullstack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hi+there+👋,+I'm+Abraham;I'm+a+Backend+Developer)
 
-## Software Engineer from Lagos, Nigeria.
+## Backend Developer from Lagos, Nigeria.
 
 - 💻 Currently I am a Software Engineer at Flutterwave.
 - 💬 Ask me about **PHP, Laravel, Payment Gateways, React**
