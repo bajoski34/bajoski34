@@ -6,7 +6,7 @@
 
 <h2 align="center">
   
-Backend Developer from Lagos, Nigeria.
+Backend Developer currently based in Riccaton, Scotland.
 
 </h2>
 
