@@ -56,5 +56,3 @@ Backend Developer currently based in Riccaton, Scotland.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajoski34&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000" />
 </p>
 
-<a align="center" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/643b908ae2725773748eacd6?variant=dark" alt="roadmap.sh"/></a>
-
