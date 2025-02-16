@@ -44,15 +44,3 @@ Backend Developer currently based in Riccaton, Scotland.
 <p align="center">
   <img src="https://www.codewars.com/users/bajoski34/badges/large">
 </p>
-
-  ---
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bajoski34&theme=gruvbox&hide_border=true&background=00000000" alt="bajoski34"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bajoski34&count_private=true&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajoski34&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000" />
-</p>
-
