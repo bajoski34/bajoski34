@@ -6,7 +6,7 @@
 
 <h2 align="center">
   
-Backend Developer currently based in Riccaton, Scotland.
+Software Engineer currently based in Riccaton, Scotland.
 
 </h2>
 
