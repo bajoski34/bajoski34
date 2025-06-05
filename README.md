@@ -3,20 +3,19 @@
 </h2>
 
 <h2 align="center">
-  Software Engineer based in Riccarton, Scotland 🇬🇧
+  Senior Software Engineer | Fintech & AI Specialist | Riccarton, Scotland 🇬🇧
 </h2>
 
-<p align="center">
-  💼 <strong>Software Engineer at Flutterwave</strong> – powering global payments across platforms. <br>
-  🔧 I design, build, and maintain <strong>microservices,integrations, plugins and SDKs</strong> for web and mobile. <br>
-  🌍 Focused on scalability, and interoperability across <strong>Python, FastAPI, Laravel, CMS (WordPress, Magento, Odoo, and Shopify etc), React, Node.js, and more</strong>. <br>
-  📦 I specialize in <strong>payment infrastructure, third-party integrations, automation, observability</strong>, and <strong>API design</strong>. <br>
-  🛠️ Key tools: <strong>Python, FastAPI, PHP, Laravel, React, JavaScript/TypeScript, PostgreSQL, Redis, Docker, GitLab CI, Grafana</strong> <br>
-  ⚙️ Also experienced with <strong>OpenAPI clients, CLI tools, service abstractions, analytics pipelines, and modern DevOps workflows</strong>. <br>
-  💬 Ask me about: <strong>Software Engineering, DX Engineering, Payment Gateways, Laravel Internals, WordPress Blocks, or JS SDK design</strong> <br>
-  🎯 Currently building: <strong>developer-facing tools that make fintech integration effortless</strong> <br>
-  😄 Pronouns: <strong>He / Him</strong>
-</p>
+💼 **Senior Software Engineer at Flutterwave** – driving innovation in global payments, financial technology, and AI-powered solutions.  
+🔧 I architect, develop, and optimize **robust microservices, integrations, plugins, and SDKs** for web and mobile platforms, ensuring secure and seamless transactions at scale.  
+🌍 Deep expertise in building scalable, interoperable systems across **Python, FastAPI, Laravel, CMS (WordPress, Magento, Odoo, Shopify, etc.), React, Node.js, and more**.  
+🤖 Experienced in leveraging **Databricks** and AI technologies to deliver intelligent automation, advanced analytics, and data-driven fintech products.  
+📦 Specialized in **payment infrastructure, third-party integrations, automation, observability**, and **API design**, with a strong focus on reliability and performance.  
+🛠️ Core tools: **Python, FastAPI, PHP, Laravel, React, JavaScript/TypeScript, PostgreSQL, Redis, Docker, GitLab CI, Grafana, Databricks**.  
+⚙️ Proven track record with **OpenAPI clients, CLI tools, service abstractions, analytics pipelines, and modern DevOps workflows**.  
+💬 Ask me about: **Software Engineering, Developer Experience (DX), Payment Gateways, AI in Fintech, Laravel Internals, WordPress Blocks, or JS SDK design**.  
+🎯 Currently building: **developer-facing tools that simplify and accelerate fintech and AI integration**.  
+😄 Pronouns: **He / Him**
 
 ---
 
