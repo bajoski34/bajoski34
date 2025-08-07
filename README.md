@@ -13,7 +13,7 @@
 📦 Specialized in **payment infrastructure, third-party integrations, automation, observability**, and **API design**, with a strong focus on reliability and performance.  
 🛠️ Core tools: **Python, FastAPI, PHP, Laravel, React, JavaScript/TypeScript, PostgreSQL, Redis, Docker, GitLab CI, Grafana, Databricks, k8s**.  
 ⚙️ Proven track record with **OpenAPI clients, CLI tools, service abstractions, analytics pipelines, and modern DevOps workflows**.  
-💬 Ask me about: **Software Engineering, Developer Experience (DX), Payment Gateways, AI in Fintech, Laravel Internals, WordPress Blocks, or JS SDK design**.  
+💬 Ask me about: **Software Engineering, Developer Experience (DX), Payment Gateways, AI in Fintech, Laravel Internals, WordPress Blocks, or SDK design**.  
 🎯 Currently building: **developer-facing tools that simplify and accelerate fintech and AI integration**.  
 😄 Pronouns: **He / Him**
 
