@@ -6,7 +6,7 @@
   Senior Software Engineer | Fintech & AI Specialist | Riccarton, Scotland 🇬🇧
 </h2>
 
-💼 **Senior Software Engineer at Flutterwave** – driving innovation in global payments, financial technology, and AI-powered solutions.  
+💼 **Senior Software Engineer** – driving innovation in global payments, financial technology, and AI-powered solutions.  
 🔧 I architect, develop, and optimize **robust microservices, integrations, plugins, and SDKs** for web and mobile platforms, ensuring secure and seamless transactions at scale.  
 🌍 Deep expertise in building scalable, interoperable systems across **Python, FastAPI, Laravel, CMS (WordPress, Magento, Odoo, Shopify, etc.), React, Node.js, and more**.  
 🤖 Experienced in leveraging **Databricks** and AI technologies to deliver intelligent automation, advanced analytics, and data-driven fintech products.  
