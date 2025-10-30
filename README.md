@@ -10,15 +10,6 @@
 </h2>
 
 💼 **Senior Software Engineer** – driving innovation in global payments, financial technology, and AI-powered solutions.  
-🔧 I architect, develop, and optimize **robust microservices, integrations, plugins, and SDKs** for web and mobile platforms, ensuring secure and seamless transactions at scale.  
-🌍 Deep expertise in building scalable, interoperable systems across **Python, FastAPI, Laravel, CMS (WordPress, Magento, Odoo, Shopify, etc.), React, Node.js, and more**.  
-🤖 Experienced in leveraging **Databricks** and AI technologies to deliver intelligent automation, advanced analytics, and data-driven fintech products.  
-📦 Specialized in **payment infrastructure, third-party integrations, automation, observability**, and **API design**, with a strong focus on reliability and performance.  
-🛠️ Core tools: **Python, FastAPI, PHP, Laravel, React, JavaScript/TypeScript, PostgreSQL, Redis, Docker, GitLab CI, Grafana, Databricks, k8s**.  
-⚙️ Proven track record with **OpenAPI clients, CLI tools, service abstractions, analytics pipelines, and modern DevOps workflows**.  
-💬 Ask me about: **Software Engineering, Developer Experience (DX), Payment Gateways, AI in Fintech, Laravel Internals, WordPress Blocks, or SDK design**.  
-🎯 Currently building: **developer-facing tools that simplify and accelerate fintech and AI integration**.  
-😄 Pronouns: **He / Him**
 
 ---
 
