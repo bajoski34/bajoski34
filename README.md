@@ -1,6 +1,3 @@
-![bajoski34's GitHub Banner](https://raw.githubusercontent.com/bajoski34/bajoski34/main/banner.png)
-
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&center=true&size=30&lines=Hi+there+👋,+I'm+Abraham;Full-Stack+Fintech+Engineer+%7C+DX+Builder;Crafting+Payments,+Plugins+%26+SDKs+for+the+Modern+Web" alt="Typing SVG" />
 </h2>
