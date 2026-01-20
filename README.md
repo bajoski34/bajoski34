@@ -34,4 +34,27 @@
   
   <a href="https://github.com/bajoski34" target/>
 
+  
+<a
+  href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abraham-olaobaju"
+  target="_blank"
+  style="
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 7px;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    color: #ffffff;
+    width: 200px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #0A66C2;
+    font-family: 'SF Pro Text', Helvetica, sans-serif;
+  "
+>
+  Follow on LinkedIn
+</a>
+
   https://arc.dev/@bajoski34
