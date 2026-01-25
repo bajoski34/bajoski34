@@ -1,21 +1,21 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&center=true&size=30&lines=Hi+there+👋,+I'm+Abraham;Full-Stack+Fintech+Engineer+%7C+DX+Builder;Crafting+Payments,+Plugins+%26+SDKs+for+the+Modern+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&center=true&size=30&lines=Hi+there+👋,+I'm+Abraham;Senior+Fintech+%26+AI+Software+Engineer;Building+Scalable+Payments,+APIs+%26+Intelligent+Systems" alt="Typing SVG" />
 </h2>
 
 <h2 align="center">
-  Senior Software Engineer | Fintech & AI Specialist | Riccarton, Scotland 🇬🇧
+  Senior Software Engineer | Fintech & AI Systems | Riccarton, Scotland 🇬🇧
 </h2>
 
-💼 **Senior Software Engineer** – driving innovation in global payments, financial technology, and AI-powered solutions.
+💼 **Senior Software Engineer** specialising in **high-scale fintech platforms and AI-driven backend systems**.
 
-- 🔧 I architect, develop, and optimize **robust microservices, integrations, plugins, and SDKs** for web and mobile platforms, ensuring secure and seamless transactions at scale.  
-- 🌍 Deep expertise in building scalable, interoperable systems across **Python, FastAPI, Laravel, CMS (WordPress, Magento, Odoo, Shopify, etc.), React, Node.js, and more**.  
-- 🤖 Experienced in leveraging **Databricks** and AI technologies to deliver intelligent automation, advanced analytics, and data-driven fintech products.  
-- 📦 Specialized in **payment infrastructure, third-party integrations, automation, observability**, and **API design**, with a strong focus on reliability and performance.  
-- 🛠️ Core tools: **Java, Python, FastAPI, PHP, Laravel, React, JavaScript/TypeScript, PostgreSQL, Redis, Docker, GitLab CI, Grafana, Databricks, k8s**.  
-- ⚙️ Proven track record with **OpenAPI clients, CLI tools, service abstractions, analytics pipelines, and modern DevOps workflows**.  
-- 💬 Ask me about: **Software Engineering, Developer Experience (DX), Payment Gateways, AI in Fintech, Laravel Internals**.  
-- 🎯 Currently building: **developer-facing tools that simplify and accelerate fintech and AI integration**.  
+- 🔧 I design and build **production-grade distributed systems** — microservices, APIs, plugins, and SDKs — powering **secure, high-volume payment flows** across web and mobile platforms.  
+- 🌍 Extensive experience across **Java, Python, FastAPI, Laravel, Node.js, React**, and major commerce ecosystems (**WordPress, Magento, Shopify, Odoo**), delivering systems that scale globally.  
+- 🤖 Strong background in **applied AI for fintech**, including **intelligent automation, analytics pipelines, data platforms**, and AI-assisted backend services using tools like **Databricks** and modern ML workflows.  
+- 📦 Deep focus on **payments infrastructure, API architecture, system reliability, observability, and performance optimisation** in regulated, high-availability environments.  
+- 🛠️ Core stack: **Java, Python, FastAPI, PHP, Laravel, TypeScript, PostgreSQL, Redis, Docker, Kubernetes, GitLab CI, Grafana, Databricks**.  
+- ⚙️ Proven delivery of **OpenAPI-driven services, internal platforms, analytics pipelines, CLI tooling, and DevOps automation** in real-world production systems.  
+- 💬 Ask me about: **Distributed Systems, Fintech Architecture, AI in Backend Engineering, Payments, Laravel & Java Internals**.  
+- 🎯 Currently building: **AI-enabled backend systems and payment platforms focused on scale, correctness, and long-term maintainability**.  
 - 😄 Pronouns: **He / Him**
 
 ---
@@ -31,12 +31,10 @@
   <a href="mailto:olaobajua@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  
-  <a href="https://github.com/bajoski34" target/>
 
-  
-<a href="https://www.linkedin.com/in/abraham-olaobaju" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/abraham-olaobaju" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
   https://arc.dev/@bajoski34
+</div>
